@@ -3,10 +3,10 @@ public class PrimitiveDemo {
         int age = 20;
         double salary= 20000.75;
         char initial = 'J';
-        boolean isEnrolled = true;
+        boolean enrolled = true;
 
         System.out.println("Age: "+ age);
         System.out.println("Salary: "+ salary);
-        System.out.println("Initials: "+ initial);
+        System.out.println("Enrolled: "+ enrolled);
     }
 }
