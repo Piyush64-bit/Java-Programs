@@ -9,4 +9,4 @@ public class PrimitiveDemo {
         System.out.println("Salary: "+ salary);
         System.out.println("Enrolled: "+ enrolled);
     }
-}
+};
