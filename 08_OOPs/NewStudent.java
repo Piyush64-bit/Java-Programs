@@ -19,7 +19,7 @@ public class NewStudent {
 
         System.out.print("Enter age: ");
         student.age = scanner.nextInt();
-        scanner.nextLine(); // Good call
+        scanner.nextLine();
 
         System.out.print("Enter grade: ");
         student.grade = scanner.nextFloat();
