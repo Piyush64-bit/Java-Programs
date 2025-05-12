@@ -7,6 +7,15 @@ Welcome to my Java learning repo! This repository contains all the Java programs
 
 ## 📁 Folder Structure
 
+Java-Programs/
+├── Basic_Programs/
+│ └── HelloWorld.java, SumTwoNumbers.java, etc.
+├── OOPs_Concepts/
+│ └── (Coming soon...)
+├── Arrays_And_Strings/
+│ └── (Coming soon...)
+└── ...
+
 
 ---
 
@@ -34,3 +43,44 @@ Welcome to my Java learning repo! This repository contains all the Java programs
    ```bash
    git clone https://github.com/Piyush64-bit/Java-Programs.git
    cd Java-Programs
+2. Open any .java file in your favorite IDE (VS Code / IntelliJ / Eclipse).
+
+3. Compile & Run in terminal:
+
+javac FileName.java
+java FileName
+
+---
+
+🎯 Goals of This Repo
+
+📘 Practice and strengthen my Java basics
+🔍 Understand core programming concepts clearly
+💡 Build logic step by step through examples
+⚔️ Prepare for coding interviews & DSA
+🛠️ Eventually build small Java-based projects
+
+---
+
+🧠 Learning Path
+I'm learning Java as part of my Full Stack Development course at Groot Academy 👨‍💻
+Also pursuing B.Tech (CSE) from GIT Jaipur 🏫
+Started with:
+
+C ✅
+C++ ✅
+HTML, CSS ✅
+Now diving deep into Java 🔥
+
+---
+
+📬 Connect With Me
+
+🔗 LinkedIn – @piyush64bit
+💼 Portfolio coming soon...
+
+🤝 Feel free to fork, star ⭐ and open PRs or issues if you have suggestions!
+
+---
+
+Made with ❤️ by Piyush | Born to Code ⚡
