@@ -1,3 +1,4 @@
+package first;
 import java.io.Console;
 
 public class ConsoleInput {

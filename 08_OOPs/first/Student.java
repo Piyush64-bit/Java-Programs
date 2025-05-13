@@ -1,3 +1,4 @@
+package first;
 public class Student {
 
     String name;
