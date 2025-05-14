@@ -33,7 +33,7 @@ Java-Programs/
 - 🔜 File Handling
 - 🔜 Mini Java Projects
 
-> ⚠️ I'm updating the repo as I learn new topics — so keep checking back and don’t forget to ⭐ star the repo if it helps you!
+> ⚠️ I'm updating the repo as I learn new topics — so keep checking back and don’t forget to ⭐ star the repo if it helps you.
 
 ---
 
