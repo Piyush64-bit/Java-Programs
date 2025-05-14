@@ -11,7 +11,7 @@ class Student {
         System.out.println("ID: " + id + ", Name: " + name);
     }
 }
-
+// class name == file name
 public class Stud {
     public static void main(String[] args) {
         Student s1 = new Student(101, "Piyush");
