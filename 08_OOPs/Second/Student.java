@@ -2,6 +2,7 @@ public class Student {
    String name;
    int age;
 
+   // calling constructor inside constructor
    Student() {
       this("Unknown", 0);
    }
