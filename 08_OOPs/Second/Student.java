@@ -1,13 +1,13 @@
-public class Student {
+class Stud {
    String name;
    int age;
 
    // calling constructor inside constructor
-   Student() {
+   Stud() {
       this("Unknown", 0);
    }
 
-   Student(String name, int age) {
+   Stud(String name, int age) {
       this.name = name;
       this.age = age;
    }
@@ -15,7 +15,9 @@ public class Student {
    void display() {
       System.out.println("Name: " + name + " Age: " + age);
    }
+}
 
+   public class student{
    public static void main(String[] args) {
       Student s1 = new Student();
       Student s2 = new Student("Arjun", 22);
@@ -23,4 +25,5 @@ public class Student {
       s1.display();
       s2.display();
    }
+
 };
