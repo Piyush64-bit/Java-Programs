@@ -18,4 +18,4 @@ public static void main(String[] args) {
     System.out.println(c1.add(2.5, 3.5));
     System.out.println(c1.add(2, 3, 7));
 }
-}
+};
