@@ -7,6 +7,19 @@
 // 2 control
 // 3 code maintainability 
 
+
+// Getter method 
+// public String Getname (){
+// return name ;
+// }  it's the syntax 
+//  getter method allows controlled access to a private variable 
+// Getter provides " read only " access to the  name variable
+
+// Setter Method -
+// this is also a public method  ,  which allowed controlled modification of a parivate  variable 
+// this . name = name ;
+//       private   parameter
+
 class Person {
     private String name;
     private int age;

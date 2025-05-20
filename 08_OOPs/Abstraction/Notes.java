@@ -1,0 +1,1 @@
+//Abstraction means hiding the complex stuff and showing only the essentials.
