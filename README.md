@@ -26,9 +26,9 @@ Java-Programs/
 - ✅ Input/Output
 - ✅ Conditional Statements (`if`, `else`, `switch`)
 - ✅ Loops (`for`, `while`, `do-while`)
+- ✅ OOPs Concepts (Classes, Objects, Inheritance, Polymorphism, etc.)
 - 🔜 Arrays & Strings
 - 🔜 Functions & Recursion
-- 🔜 OOPs Concepts (Classes, Objects, Inheritance, Polymorphism, etc.)
 - 🔜 Exception Handling
 - 🔜 File Handling
 - 🔜 Mini Java Projects
