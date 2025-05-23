@@ -12,5 +12,7 @@ public class Arraytwo {
         for (int num : arr) {
             System.out.println(num + " ");
         }
+
+        
     }
 }
