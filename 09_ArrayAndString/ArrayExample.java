@@ -1,9 +1,15 @@
 public class ArrayExample {
     public static void main(String[] args) {
-        String[] arr1 = new String[3]; 
+        // Declare and initialize an array of integers
+        int[] numbers = {10, 20, 30, 40, 50};
 
-        System.out.println("arr1[0]: " + arr1[0]);
+        // Access elements
+        System.out.println("First number: " + numbers[0]);  // Outputs 10
 
-        System.out.println("Length: " + arr1[0].length());
+        // Loop through the array
+        System.out.println("All numbers:");
+        for(int i = 0; i < numbers.length; i++) {
+            System.out.println(numbers[i]);
+        }
     }
 }
