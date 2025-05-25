@@ -1,3 +1,5 @@
+// Array and string
+
 // in java there is no pointer concept
 // array is a collection of similar type of data
 
