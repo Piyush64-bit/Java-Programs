@@ -1,4 +1,3 @@
-
 import java.util.ArrayList;
 
 public class StringFour {
@@ -17,10 +16,10 @@ public class StringFour {
 
         // integer will be converted to the integer that will call tostring()
 
-        System.out.println("laksh" + new ArrayList<>());
+        // System.out.println(new Integer(0) + new ArrayList<>());
+        // for this , you will be seeing an error because (+) operator in java is only defined for primitive data types  & if one of these value is a strinng 
 
-        // you'll see an empth array
-
-        // System.out.println(newInteger() + newArraylist<>());
-    }e
+        // to correct upper case error 
+        System.out.println(new Integer(0) + "  " + new ArrayList<>());
+    }
 }
