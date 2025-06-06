@@ -57,3 +57,15 @@ public class One {
 // new students(); ==> Happening at run time
 // -> after verification java running your code and memory is being allocated
 // It checks wheather i have assigned a value and if not, it prints the default value instead.
+
+
+// Student student1 ==>   Happening at compile time
+// -> code is exceuting
+// -> errors are shown
+// -> Source code -> byte code
+// Now, when i do, S1. name, S1. rollno.
+
+// new students(); ==> Happening at run time
+// -> after verification java running your code and memory is being allocated
+// It checks wheather i have assigned a value and if not, it prints the default value instead.
+
