@@ -36,5 +36,6 @@ public class Main {
 
         myAnimal.speak(); // Output: Animal is making a sound...
         myDog.speak();    // Output: Bruno says: Woof Woof!
+        // Output: Bruno says: Woof Woof!
     }
 }
