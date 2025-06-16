@@ -6,16 +6,16 @@ public class OperatorOverloading {
     }
 
     public static int math(int a, int b, char operation) {
-        switch (operation) {
-            case '+': return a + b;
-            case '*': return a * b;
-            case '/':
+        return switch (operation) {
+            case '+' -> a + b;
+            case '*' -> a * b;
+            case '/' -> {
                 if (b == 0) {
                     throw new ArithmeticException("Division by zero is not allowed");
                 }
-                return a / b;
-            default:
-                throw new IllegalArgumentException("Unsupported operation: " + operation);
-        }
+                yield a / b;
+            }
+            default -> throw new IllegalArgumentException("Unsupported operation: " + operation);
+        };
     }
 }

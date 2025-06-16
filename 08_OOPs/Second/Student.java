@@ -3,6 +3,9 @@ class Stud {
    int age;
 
    // calling constructor inside constructor
+   /**
+    * 
+    */
    Stud() {
       this("Unknown", 0);
    }
@@ -17,13 +20,16 @@ class Stud {
    }
 }
 
-   public class student{
+class StudentTest {
    public static void main(String[] args) {
-      Student s1 = new Student();
-      Student s2 = new Student("Arjun", 22);
+      Stud s1 = new Stud();
+      Stud s2 = new Stud("Arjun", 22);
 
       s1.display();
       s2.display();
+
+      // Explicitly use StudentTest to avoid "never used" warning
+      StudentTest test = new StudentTest();
    }
 
-};
+}
