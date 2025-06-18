@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # 🚀 Java Learning Repository
 
 Welcome to the **Java@Groot** repository! 🌱  
