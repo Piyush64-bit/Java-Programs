@@ -55,6 +55,14 @@ Each folder contains focused examples and exercises for that topic.
 
 ---
 
+## 📫 Wanna Connect?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/piyush64bit)
+[![Email](https://img.shields.io/badge/Email-Me-informational?style=flat&logo=gmail)](mailto:piiyush.sonii@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-9cf?style=flat&logo=vercel)](https://piyushportfolio.live)
+
+---
+
 ## 🤝 Contribution
 
 Found a bug? Want to add more examples or explanations?  
