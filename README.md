@@ -24,15 +24,35 @@ This is your one-stop destination for mastering Java programming, from the basic
 
 ```
 Java@Groot/
-├── 01_Basic/
-├── 02_DataTypes/
-├── 03_Variables/
-├── 05_ControlStatment/
-├── 06_Methods/
-├── 07_ArrayAndString/
-├── 08_OOPs/
-├── 10_String/
-├── 11_OOPs/
+├── 📁 01_Basic/                  → Hello world + Intro basics
+│   └── 🧪 Practice-Set/          → Mini practice programs
+├── 📁 02_DataTypes/             → Primitive, Reference, String demos
+├── 📁 03_Variables/             → Scope, Declaration, Init
+├── 📁 04_OperatorsAndExpressions/
+│   └── 🧠 PracticeProblem/       → Real Qs on ops
+├── 📁 05_ControlStatment/       → if/else, loops, switch 💡
+│   └── 🎮 QuizeGame/            → Small console game
+├── 📁 06_Methods/               → Param, Return, Overload
+│   └── 🔢 Pactice_Project/      → Grade Manager project
+├── 📁 07_ArrayAndString/        → 1D/2D Arrays, String tricks
+├── 📁 08_OOPs/                  → Abstraction, Encapsulation, etc.
+│   ├── 🧱 Abstraction/
+│   ├── 🛡️ Encapsulation/
+│   ├── 🧪 first/
+│   ├── ⚙️ Second/
+│   └── 🚗 Third/
+├── 📁 09_ArrayAndString/        → More array practice + ArrayList 🚀
+│   └── 📋 ArrayList/
+├── 📁 10_String/                → All things Java String 🧵
+├── 📁 11_OOPs/                  → Deep dive into OOP concepts
+│   ├── 👨‍👩‍👧 inheritance/
+│   ├── 🧠 OOPs1/
+│   ├── 🧬 OOPs2/
+│   ├── 🧪 OOPs3/
+│   └── 💼 OwnPractise/
+└── 📁 SelfQuestions/            → Self-made challenges & questions
+    └── 🧪 PublicPrivate/
+
 ```
 
 Each folder contains focused examples and exercises for that topic.
