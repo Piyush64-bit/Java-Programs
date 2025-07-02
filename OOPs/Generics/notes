@@ -1,0 +1,36 @@
+Generics 
+=> allow you to code that is independent of a specific data type while ensuring type safety at compile time.
+
+#Key Benefits:
+- Type Safety
+- Eleimation of cast
+- Code Resuablity
+- Improved Readability
+
+
+Generics use type parameter (< >), to specify the type(s) of a class, interface or method.
+
+#Syntax: 
+        public class GenericsClass<T> {
+            private T Data;
+            public GenericClass(T data) {
+                this.data = data;
+            }
+            public T getdata() {
+                return data;
+            }
+        }
+
+    T => Type parameter and can be replaced by any type- "Integer, String" ..etc
+
+
+    *Type Parameter
+    a) T - type
+    b) E - Element
+    c) K - Key
+    d) V - Value
+    E) N - Number
+
+
+
+   

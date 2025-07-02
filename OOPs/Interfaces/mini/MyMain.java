@@ -10,3 +10,5 @@ public class MyMain {
         myCar.stop();
     }
 }
+
+// the major difference  etween a class and interface is varibales in the interface are only static and final nothing else . while a java interface can be created using "impliment" keyword while java classes are created using "entends " keywords
