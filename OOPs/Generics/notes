@@ -33,4 +33,22 @@ Generics use type parameter (< >), to specify the type(s) of a class, interface 
 
 
 
-   
+   #Bounded Type Parameters
+
+   => Bounded type parameter restrics the types that can be used with a generic class or method. you can use with the "extends" keyword to specify that the type must be a sub class of a specific class or implements specific interfaces.
+
+   Ex: 
+            public class BoundedClass <T extends Number> {
+                private T number:
+                public BoundedClass(T Number) {
+                    this.number = number;
+                }
+                public class square() {
+                    returns number.doublevalue() * number.doublevalue();
+                }
+            }
+
+            public static void main(String[] args) {
+                BoundedClass<Integer> intObj = new BoundedClass<>(5);
+                System.out.println("Square" + intObj.square());
+            }
