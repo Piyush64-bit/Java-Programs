@@ -1,0 +1,25 @@
+#raw type 
+
+a raw type is a generic class or interface used without specifying a type parameter.
+for ex- list instead os list<string>. They are discouged because of bypassing type safty.
+
+list rawlist = new arraylist(); // rawtype;
+rawlist.add ("string");
+rawlist.add(1, 2, 3);  ---> no error
+
+
+# Type Erasure:
+a) complile type typing cheacking:
+---> java compiler uses the generic typr information (<T>) to enforce type safty at compiler time. This prevents you from putting the wrong type of object into a generic class or methods.
+
+b) Erasure of thpe parameters:
+---> When the code is compile, the compiler removes "all information related to generic type parameters"
+----> If the type parameter is unbounded (T)---> replaced by object
+                                bound (T extends number)---> it is replaced by first bound.
+
+c) Insertion of casts:
+---> When you use a generic class, for ex - (Genericlas <string> ), the compiler inserts type casters where nessary to ensure type safety.
+
+ex- Genericlas Strobj = new Genericlas();
+                Strobj.data = "Hello";
+                String value = (String) Strobj.data ---> complier inserts casts
