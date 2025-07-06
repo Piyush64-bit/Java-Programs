@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/08_OOPs/08_OOPs.iml" filepath="$PROJECT_DIR$/08_OOPs/08_OOPs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_OOPs/11_OOPs.iml" filepath="$PROJECT_DIR$/11_OOPs/11_OOPs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java@Groot.iml" filepath="$PROJECT_DIR$/Java@Groot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPs/OOPs.iml" filepath="$PROJECT_DIR$/OOPs/OOPs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_OOPs/OOPs3/OOPs3.iml" filepath="$PROJECT_DIR$/11_OOPs/OOPs3/OOPs3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelfQuestions/SelfQuestions.iml" filepath="$PROJECT_DIR$/SelfQuestions/SelfQuestions.iml" />
+    </modules>
+  </component>
+</project>
