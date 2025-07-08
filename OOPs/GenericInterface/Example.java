@@ -1,3 +1,4 @@
+// Example of a generic method in Java
 package OOPs.GenericInterface;
 
 public class Example {
