@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01_Basic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02_DataTypes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03_Variables" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04_OperatorsAndExpressions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05_ControlStatment" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06_Methods" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07_ArrayAndString" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08_OOPs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09_ArrayAndString" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10_String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SelfQuestions" isTestSource="false" packagePrefix="OOPS.oops6.pACKAEGES" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
