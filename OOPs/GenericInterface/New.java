@@ -15,7 +15,7 @@ class Human implements Cloneable {
         this.name = override.name;
     }
 
-    @Override
+    @Override // override
     protected Object clone() throws CloneNotSupportedException {
         return super.clone();
     }
