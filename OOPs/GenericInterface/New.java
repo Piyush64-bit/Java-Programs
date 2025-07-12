@@ -1,4 +1,4 @@
-// new.java
+// new.java genericinterface
 package OOPs.GenericInterface;
 
 class Human implements Cloneable {
