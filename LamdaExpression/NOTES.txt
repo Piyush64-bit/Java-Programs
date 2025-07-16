@@ -1,0 +1,23 @@
+#Lambda Expression in JAVA
+
+-> Lambda expression were introduced in JAVA8 to provide a concise way to represent anonymous functions.
+-> They are primarly used to implement functions interfaces.
+
+-> Syntax are primarly used to implemnt functions interfaces.
+
+-> Syntax:
+(parameter) -> expression
+(parameter) -> {statement}
+
+=> Parameterized: input to the Lambda
+=> (->) arrow operator: seperates parameters from the body
+=> Body: Code to executed
+
+a) Lambda exp. witrh Opera
+()-> System.out.println("Hello World);
+
+b) Lanbda exp with one par.
+x->x=/x
+
+c) Lambda exp. with multiple 
+(a, b) -> a+b

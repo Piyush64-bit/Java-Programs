@@ -6,40 +6,38 @@ public class ExceptionHandle {
         int a = 5;
         int b = 0;
 
-        // fancy approch
+        // fancy approach
         // int c = a/b;
 
-        // optimize approch -> using tru-catch
+        // optimize approach -> using try-catch
 
-        try{
-            divide (a, b);
+        try {
+            divide(a, b);
             String name = "Mukesh";
             if(name.equals("Piyush")) {
                 throw new MyException("name is Piyush");
             }
         }
-
-        catch(MyException e){
-            System.out.println(e.getMessage);
+        catch(MyException e) {
+            System.out.println(e.getMessage()); // Fixed: added parentheses
         }
-        catch(ArithmaticException e) {
-            System.out.println(e.getMessage);
+        catch(ArithmeticException e) { // Fixed: correct spelling
+            System.out.println(e.getMessage()); // Fixed: added parentheses
         }
         catch(Exception e) {
             System.out.println("Normal Exception");
         }
-        final {
+        finally {
             System.out.println("it will always be executed");
         }
+    }
 
-        // creating a divide method
-
-        Static int divide (int a, int b) throws ArithmeticException {
-            if(b == 0) {
-                throw new ArithmeticException ("please do not divide by zero");
-            }
-            return a/b;
+    // Fixed: moved outside main method and corrected 'static'
+    static int divide(int a, int b) throws ArithmeticException {
+        if(b == 0) {
+            throw new ArithmeticException("please do not divide by zero");
         }
+        return a/b;
     }
 }
 
