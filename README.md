@@ -2,12 +2,12 @@
 
 <div align="center">
 
-# 🌱 Java@Groot
+# 🌱 Java By PIYUSH-64BIT
 ### *Your Complete Java Learning Journey from Zero to Hero*
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/Java-Groot?style=for-the-badge&logo=github)](https://github.com/yourusername/Java-Groot/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/Java-Groot?style=for-the-badge&logo=github)](https://github.com/yourusername/Java-Groot/network)
-[![Last commit](https://img.shields.io/github/last-commit/yourusername/Java-Groot?style=for-the-badge&logo=git)](https://github.com/yourusername/Java-Groot/commits/main)
+[![GitHub stars](https://img.shields.io/github/stars/Piyush64-bit/Java-Programs?style=for-the-badge&logo=github)](https://github.com/Piyush64-bit/Java-Programs/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Piyush64-bit/Java-Programs?style=for-the-badge&logo=github)](https://github.com/Piyush64-bit/Java-Programs/network)
+[![Last commit](https://img.shields.io/github/last-commit/Piyush64-bit/Java-Programs?style=for-the-badge&logo=git)](https://github.com/Piyush64-bit/Java-Programs/commits/main)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 *Welcome to the most comprehensive Java learning repository on GitHub! 🚀*
@@ -154,8 +154,8 @@ Java@Groot/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Java-Groot.git
-   cd Java-Groot
+   git clone https://github.com/Piyush64-bit/Java-Programs.git
+   cd Java-Programs
    ```
 
 2. **Verify Java installation**
@@ -215,9 +215,9 @@ Java@Groot/
 
 ### 🌟 **Ready to contribute? We'd love your help!**
 
-[![Contribute](https://img.shields.io/badge/Contribute-Welcome-brightgreen?style=for-the-badge&logo=github)](https://github.com/yourusername/Java-Groot/blob/main/CONTRIBUTING.md)
-[![Issues](https://img.shields.io/badge/Issues-Help%20Wanted-red?style=for-the-badge&logo=github)](https://github.com/yourusername/Java-Groot/issues)
-[![Discussions](https://img.shields.io/badge/Discussions-Join%20Now-blue?style=for-the-badge&logo=github)](https://github.com/yourusername/Java-Groot/discussions)
+[![Contribute](https://img.shields.io/badge/Contribute-Welcome-brightgreen?style=for-the-badge&logo=github)](https://github.com/Piyush64-bit/Java-Programs/blob/main/CONTRIBUTING.md)
+[![Issues](https://img.shields.io/badge/Issues-Help%20Wanted-red?style=for-the-badge&logo=github)](https://github.com/Piyush64-bit/Java-Programs/issues)
+[![Discussions](https://img.shields.io/badge/Discussions-Join%20Now-blue?style=for-the-badge&logo=github)](https://github.com/Piyush64-bit/Java-Programs/discussions)
 
 **Found a bug?** 🐛 **Have a suggestion?** 💡 **Want to add examples?** ✨
 
@@ -249,11 +249,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/Java-Groot&type=Date)](https://star-history.com/#yourusername/Java-Groot&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Piyush64-bit/Java-Programs&type=Date)](https://star-history.com/#Piyush64-bit/Java-Programs&Date)
 
 ---
 
-### Made with ❤️ by [Piyush](https://github.com/yourusername) | #JavaGroot 🌱
+### Made with ❤️ by [Piyush](https://github.com/Piyush64-bit) | #JavaGroot 🌱
 
 **Happy Coding! Keep Growing! 🚀**
 
