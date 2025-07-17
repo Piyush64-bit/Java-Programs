@@ -1,0 +1,39 @@
+/* 
+Abstract Classes -When your function does not have the body, it depends on the child class to provide the body for that function.
+
+>> There are some empty methods and the child class over rides those methods from the parent to use them with their bodies.
+>>syntax : abstract void career(String name)
+>> If a class contains one or more abstract methods, then it should also be changeed to the abstract classs
+
+>>S-1- Create three files Parent,Son and Main.java
+>>S-2- Every child class has to override the abstract memthods of parent
+>>S-3- make parent abstract class and then declare methods and then in son, ovrride those methods
+>>S-4- create a daughter.java and do the same as son
+>>S-5- create objects of Son, daugher in the main and see the use   
+>>S-6-can we do it for the variables > yes in parent age variable declaration
+>>S-7- we can also create the constructor of the abstract class Parent >> then replace this by super
+>>S-8- you ccan also create the static methods in the abstract classes(reason: there wil be no objects for the abstract classes) , you can then create the normal method here
+>>S-9- we can also be using the final keyword in the abstract Parent class here, try to use in the son , daugheter
+>>S-10- Interfaces - major difference between a class and an interface is variables in the interfaces are only static and final nothing else. java interface can be created using the "implements" keyword while the classes created using the "extends" keyword
+>>S-11-you can implement , multiple interfaces (multiple inheritances)
+>> Imagine a car which has three subcategories - BRAKE(brake()) , ENGINE(start(),stop(),acclerate()), MEDIA(start(),stop()),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/

@@ -1,0 +1,24 @@
+/* 
+Polymorphism - means many forms or many ways to represrnt   
+S-1- Create Shapes as the base class and Circle, triangle, square as its children classses
+S-2- Define the area function in all of them
+S-3- create the main.java for exceution of the code from all of them
+S-4- create  objects of all the respective classes and call them
+S-5 Now, square.are -> it will go and find area method inthe square class and if found, return the same
+S-6- - Types of polymorphism in java
+ >> Compile time polymorphism (achieved by method overloading) - means for the same method the types, arguements, return types, ordering can be different .For ex- multiple construtors 
+ >> Run Time polymrphism (Dynamic polymorphism) - achived by method overriding
+
+ S-7- Now, again create a new Rectangle.java and  area and use the keyword @override 
+ >> Override basically , means if the type is the reference variable is the parent class and the object is of the child class or sub class , 
+ Shapes circle = new Circle();
+ Shapes square = new Square();
+ circle.area();
+{Parent object  = new Child() >>this is known as Upcasting in java}
+This behind the scene work is done by the mechanism in java called- dynamic method dispatch - it determines which version of the overriden type has to be called (if you try to remove the area method from the shape, then this proces cant happen , because method should be there for dispatch to compare which to show during runtime) - this can be also known as late binding in java (jo last mei hoti hai)
+S-8- final method is simply used when you dont want to override anything
+S-9-final methods are the part of early binding in java because, shuru mei hi final laga diya so that it cant be overridden
+S-10- we also cant be override the static methods  . static methods as we know doesnt depends on the objects so they cant be overrided, they will run when created in the class . override depends on objects and static doesnt depends on the objects.
+
+
+*/

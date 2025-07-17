@@ -1,0 +1,76 @@
+/* 1. EAGER Initialization Singleton
+✅ Theory
+In eager initialization, the singleton instance is created as soon as the class is loaded, even if it’s never used.
+
+✅ Key Characteristics
+Instance is created at class loading time.
+
+Thread-safe because the class loader mechanism ensures that the instance is created before any thread accesses it.
+
+Fast and simple implementation.
+
+✅ When to Use
+When the singleton is always needed.
+
+When instance creation is not resource-intensive.
+
+✅ Drawbacks
+If the instance is never used, it results in memory waste.
+
+🔷 2. LAZY Initialization Singleton
+✅ Theory
+In lazy initialization, the instance is created only when it’s needed for the first time.
+
+✅ Key Characteristics
+Saves memory by delaying object creation.
+
+Not thread-safe by default — if two threads call getInstance() simultaneously, two objects could be created.
+
+✅ When to Use
+When you want to delay the object creation until it’s absolutely required.
+
+In single-threaded applications.
+
+✅ Drawbacks
+Must be manually made thread-safe for use in multi-threaded environments.
+
+🔷 3. Thread-Safe Singleton (Double-Checked Locking)
+✅ Theory
+This version uses lazy initialization with thread-safety by applying synchronization and double-checking before creating the instance.
+
+✅ Key Characteristics
+Solves the problem of multiple threads creating separate instances.
+
+Uses synchronized and double-checked locking (check before and after acquiring lock).
+
+volatile keyword ensures that the object is fully initialized before other threads see it.
+
+✅ When to Use
+In multi-threaded applications where performance matters.
+
+When you want lazy initialization + thread safety.
+
+✅ Drawbacks
+Slightly more complex than other approaches.
+
+🔷 4. Enum Singleton
+✅ Theory
+Java allows a singleton to be implemented using an enum, where the enum itself ensures a single instance is maintained.
+
+✅ Key Characteristics
+Simplest and safest way to implement a singleton.
+
+Implicitly thread-safe.
+
+Protects against serialization, reflection, and cloning issues.
+
+✅ When to Use
+In modern Java applications where you need a robust, minimal singleton.
+
+When you don’t need lazy initialization but need full safety and simplicity.
+
+✅ Drawbacks
+Enum singleton is eagerly initialized by default.
+
+Some developers may find it less intuitive for more complex singleton behavior.
+ */

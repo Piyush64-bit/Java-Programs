@@ -1,0 +1,15 @@
+/* First of all multiple inheritance is not supported in java
+1. What if there are 3 parent classes and that two parent classes have n=2 (lets assume n is a variable) and n=3, while creating object of the third one , parent 3 object >> object.n ?? which n to call this is the confusion for the child
+/* thats why not supported and instead of this we will be using the interfaces in java
+4. Heirtachial inheritance- one class is being inherited by many other classes
+5. Hybrid Inheritance - it is the combination of single and multilevel inheritance ,(not allowed in java)
+6. a class cannot be its own super class (BoxWeight extends Boxweight not allowed in java)
+
+
+
+
+
+
+
+
+*/
