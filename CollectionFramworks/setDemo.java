@@ -1,7 +1,7 @@
 
 import java.util.HashSet;
 
-// #setinterface
+// #setinterface demo
 
 // > the setinterface(java.util.set) represents a collection with no duplicates
 // > ex- Hashset(Unorderd), Treeset(sorted)
